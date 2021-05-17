@@ -5,9 +5,9 @@ import PostItem from "./components/PostItem";
 function App() {
   return (
     <div className="App">
-      <PostItem>vvddvv</PostItem>
+      <PostItem> XYZ  </PostItem>
 
-      <ButtonChin> Increase </ButtonChin>
+      <ButtonChin> TĂNG !!!  </ButtonChin>
     </div>
   );
 }

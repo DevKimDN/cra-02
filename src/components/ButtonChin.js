@@ -11,7 +11,7 @@ export default class ButtonChin extends Component {
   render() {
     return (
       <div>
-        <button onClick={()=> fc(this.props.children + "ok you ok !") }> 
+        <button onClick={()=> fc(this.props.children + "XONG ") }> 
           {this.props.children}
         </button>
       </div>
